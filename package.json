@@ -1,0 +1,9 @@
+{
+  "name": "ep_bark_notifications",
+  "version": "0.0.1",
+  "description": "An Etherpad plugin for receiving Bark notifications",
+  "author": {
+    "name": "flinn",
+    "email": "fpjiannan@qq.com"
+  }
+}

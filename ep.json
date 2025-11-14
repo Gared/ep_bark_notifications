@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "ep_bark_notifications",
+      "hooks": {
+        "userJoin": "ep_bark_notifications/index.js",
+        "userLeave": "ep_bark_notifications/index.js"
+      }
+    }
+  ]
+}
