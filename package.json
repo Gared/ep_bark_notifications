@@ -5,5 +5,9 @@
   "author": {
     "name": "flinn",
     "email": "fpjiannan@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flinnshang/ep_bark_notifications.git"
   }
 }
